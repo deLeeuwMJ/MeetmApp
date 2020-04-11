@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meet\'m</string>
+    <string name="about_me">Bewerk over mij</string>
+    <string name="about_us">Over ons</string>
+    <string name="about_us_text">Bij Meet\'m, geloven we dat iedereen een een kans verdient om andere freelancers en ondernemers te ontmoeten. Innovatie en eenvoud is wat ons gelukkig maakt: ons doel is om freelancers en ondernemers te verbinden met onze app. We zijn verheugd om u te helpen met deze reis!</string>
+    <string name="add_geofence">Voeg geofence toe</string>
+    <string name="chat_send">Verstuur</string>
+    <string name="chat_title">Gesprekken</string>
+    <string name="contacts">Contacten</string>
+    <string name="detail_about_me">Over mij</string>
+    <string name="detail_birthday">Verjaardag</string>
+    <string name="detail_email">Email</string>
+    <string name="detail_job">Beroep</string>
+    <string name="detail_phone_number">Telefoon nummer</string>
+    <string name="draw_route">Teken route</string>
+    <string name="events">Evenementen</string>
+    <string name="geofence_transition_entered">Aangekomen</string>
+    <string name="geofences_added">Geofence toegevoegd</string>
+    <string name="geofences_removed">Geofence verwijderd</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_meeting_date">Datum</string>
+    <string name="hint_meeting_location">Locatie</string>
+    <string name="hint_meeting_name">Meeting naam</string>
+    <string name="hint_meeting_time">Tijd</string>
+    <string name="hint_name">Naam</string>
+    <string name="hint_password">Wachtwoord</string>
+    <string name="home_crossed_members">Tegekgekomen leden</string>
+    <string name="home_nothing_found">Het lijkt erop dat je nog geen paden hebt gekruist met iemand. Kom later terug om de profielen van degenen die u later op de dag bent tegengekomente ontdekken.</string>
+    <string name="home_title">Het begint!</string>
+    <string name="insufficient_permissions">Onvoldoende rechten.</string>
+    <string name="location">Locatie</string>
+    <string name="location_search_radius">Zoek radius</string>
+    <string name="location_title">Update je locatie</string>
+    <string name="location_visibility_title">Zichtbaar voor andere gebruikers</string>
+    <string name="map_styling_tile">Satelliet stijl</string>
+    <string name="meet_add">Voeg toe</string>
+    <string name="message">Bericht</string>
+    <string name="not_implemented_yet">Deze functie is nog niet geimplementeerd</string>
+    <string name="notification_crossed_sub">Ga naar de Meet\'m app om te zien wie je bent tegengekomen</string>
+    <string name="notification_crossed_title">Je bent iemand tegengekomen</string>
+    <string name="profile">Profiel</string>
+    <string name="register">Registreer</string>
+    <string name="remove_geofence">Verwijder geofence</string>
+    <string name="save_meeting">Sla meeting op</string>
+    <string name="settings">Instellingen</string>
+    <string name="styling">Map stijl</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="user_follow">Volg</string>
+    <string name="user_following">Volgend</string>
+    <string name="your_contacts">Jouw contacten</string>
+    <string name="business_events_title">Zakelijke evenementen Nederland</string>
+    <string name="logout">Log uit</string>
+    <string name="login">Log in</string>
+    <string name="reload" translatable="false">Ververs</string>
+</resources>

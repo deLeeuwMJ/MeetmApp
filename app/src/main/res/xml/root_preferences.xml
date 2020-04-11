@@ -1,0 +1,55 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/profile">
+
+        <EditTextPreference
+            app:key="location_set"
+            app:title="@string/location"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="about_me_set"
+            app:title="@string/detail_about_me"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="job_set"
+            app:title="@string/detail_job"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="phone_set"
+            app:title="@string/detail_phone_number"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="profile_url_set"
+            app:title="@string/profile_picture_update"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/location">
+
+        <SwitchPreferenceCompat
+            app:key="location_visible"
+            app:title="@string/location_visibility_title" />
+
+        <ListPreference
+            android:key="location_radius"
+            android:entries="@array/radius_entries"
+            android:entryValues="@array/radius_values"
+            android:title="@string/location_search_radius" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/styling">
+
+        <SwitchPreferenceCompat
+            app:key="map_satellite_style"
+            app:title="@string/map_styling_tile" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

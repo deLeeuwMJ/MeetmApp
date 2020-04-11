@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/home"
+        android:id="@+id/bottomNavigationHomeMenuId"
+        android:icon="@drawable/ic_home_custom_24dp"/>
+<!--    <item android:title="@string/chat"-->
+<!--        android:id="@+id/bottomNavigationChatMenuId"-->
+<!--        android:icon="@drawable/ic_chat_custom_24dp"/>-->
+    <item android:title="@string/contacts"
+        android:id="@+id/bottomNavigationContactsMenuId"
+        android:icon="@drawable/ic_contacts_custom_24dp"/>
+    <item android:title="@string/events"
+        android:id="@+id/bottomNavigationEventsMenuId"
+        android:icon="@drawable/ic_event_note_custom_24dp"/>
+    <item android:title="@string/profile"
+        android:id="@+id/bottomNavigationProfileMenuId"
+        android:icon="@drawable/ic_profile_custom_24dp"/>
+</menu>

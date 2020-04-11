@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110288216560",
+    "firebase_url": "https://meetm-3301.firebaseio.com",
+    "project_id": "meetm-3301",
+    "storage_bucket": "meetm-3301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110288216560:android:c2c5e71d4dd76423a7fd35",
+        "android_client_info": {
+          "package_name": "com.jaysonm.meetm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110288216560-p1cvca1bag6j324jjt56hoc5ihkai3iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GT5cvvstf8yriaii9ex0LrDPGnvRAik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110288216560-p1cvca1bag6j324jjt56hoc5ihkai3iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
